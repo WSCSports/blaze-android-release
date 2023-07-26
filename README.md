@@ -1,4 +1,5 @@
-# blaze-android-release
+# Blaze Android releases 
+
 Android repo for Blaze SDK releases
 
 
